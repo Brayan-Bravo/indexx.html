@@ -1,0 +1,185 @@
+
+
+
+#imagen-git{
+	width: 200px;
+	height: 70px;
+	margin: 20px;
+}
+#imagen-github{
+	width: 200px;
+	height: 70px;
+	margin: 20px;
+}
+#imgFacebock{
+	width: 40px;
+	height: 20px;
+}
+#imgtiwtter{
+	width: 40px;
+	height: 20px;
+}
+.padreredes{
+	display: flex;
+	background:  #E0FFFF;
+	justify-content: center;
+	margin: 20px 0px 0px 0px;
+
+
+}
+.redessociales{
+
+	margin: 10px;
+}
+
+.contendor-titulo{
+	height: 150px;
+	background: #E0FFFF;
+	display: flex;
+	justify-content: space-around;
+}
+.titulo{
+	font-family: "verdana";
+	font-size: 12px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+}
+
+body{
+	background: #E0FFFF;
+}
+.estilo-nav{
+	background: #000000;
+	color: #FFFFFF;
+	margin: 0px 7px 0px 7px;
+	padding: 10px 20px;
+	display: inline-block;
+	text-decoration: none; 
+	border-radius: 30px;
+	border: 2px solid #6495ED;
+	font-family: "verdana";
+}
+
+nav{
+	width: 100%
+	margin: 0px 200px 0px 200px;
+	background: #708090;
+	padding: 10px;
+	display: flex;
+	justify-content: center;
+	border-radius: 30px;
+}
+nav ul a:hover{
+	background: #FFFFFF;
+	color: #000000;
+}
+nav ul a:avtive{
+	background: #FFFFFF;
+	color: #000000;
+}
+
+div{
+	margin: 0px 200px 0px 200px;
+	background: #FFFFFF;
+	width: 70%
+		border: 5px solid #0000;
+	}
+
+.contenedor-parafos{
+	height: 300px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.parafos{
+	font-family: "verdana";
+	display: block;
+	text-align: left;
+	width: 50%
+	border-radius:30px;
+}
+
+#imagen-inicio{
+	width: 20%;
+	}
+.btn-flecha{
+margin: 100px 0px 50px 0px;
+font-size: 70px;
+border: none;
+border-radius: 30px;
+text-decoration: none;
+color: #000000;
+}
+footer{
+	font-family: "verdana";
+	font-size: 9px;
+	margin: 110px 50px 20px 50px;
+	text-align: center;
+}
+
+.contenedor-git{
+		height: 400px;
+	display: flex;
+	justify-content: space-between;
+}
+.contenedor-desgit	{
+		height: 600px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.parrafosgit{
+	font-family: "verdana";
+	display: block;
+	text-align: left;
+	width: 50%
+	border-radius:30px;
+}
+#imagen-PGIT{
+	margin: 50px 0px 20px 0px;
+		width: 30%;
+		height: 40%;
+}
+
+
+.contenedor-github{
+		height: 300px;
+	display: flex;
+	justify-content: space-between;
+}
+.parafosgithub{
+	font-family: "verdana";
+	display: block;
+	text-align: left;
+	width: 50%
+	border-radius:30px;
+}
+#imagen-PGITHUB{
+	margin: 50px 0px 20px 0px;
+		width: 30%;
+		height: 40%;
+}
+
+.contenedor-html{
+		height: 300px;
+	display: flex;
+	justify-content: space-between;
+}
+.parafoshtml{
+	font-family: "verdana";
+	display: block;
+	text-align: left;
+	width: 50%
+	border-radius:30px;
+}
+#imagen-Phtml{
+	margin: 50px 0px 20px 0px;
+		width: 30%;
+		height: 40%;
+}
+#imagen-unad{
+		margin: 50px 0px 20px 0px;
+		width: 30%;
+		height: 40%;	
+}
